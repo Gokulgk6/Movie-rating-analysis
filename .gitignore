@@ -1,0 +1,23 @@
+# Large datasets
+*.csv
+*.zip
+*.tar
+*.gz
+
+# Hadoop temporary files
+*.log
+
+# Java files
+*.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+.vscode/
+
+# Temporary files
+tmp/
+temp/
